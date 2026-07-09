@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/BreakContinue/BreakContinue.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/BreakContinue/BreakContinue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/ClassObj/ClassObj.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/ClassObj/ClassObj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/ClassObjAss/ClassObjAss.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/ClassObjAss/ClassObjAss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Constructor/Constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/DecisionAssignment/DecisionAssignment.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/DecisionAssignment/DecisionAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/DecisionMaking/DecisionMaking.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/DecisionMaking/DecisionMaking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/FunctionAssignment/FunctionAssignment.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/FunctionAssignment/FunctionAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Functions/Functions.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Functions/Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/InitializeBlock/InitializeBlock.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/InitializeBlock/InitializeBlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/InputOutput/InputOutput.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/InputOutput/InputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/June10ExQues/June10ExQues.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/June10ExQues/June10ExQues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Literals/Literals.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Literals/Literals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/LoopAssAdvance/LoopAssAdvance.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/LoopAssAdvance/LoopAssAdvance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/LoopAssignmentBasic/LoopAssignmentBasic.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/LoopAssignmentBasic/LoopAssignmentBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Loops/Loops.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/OperatorAssignment/OperatorAssignment.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/OperatorAssignment/OperatorAssignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Operators/Operators.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/Static/Static.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/Static/Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaWorkshop--main/SwitchCase/SwitchCase.iml" filepath="$PROJECT_DIR$/javaWorkshop--main/SwitchCase/SwitchCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/javaWorkshop--main (1).iml" filepath="$PROJECT_DIR$/.idea/javaWorkshop--main (1).iml" />
+    </modules>
+  </component>
+</project>
