@@ -10,7 +10,7 @@ public class CreateTable {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			Connection c=DriverManager.getConnection(
 					"jdbc:mysql://localhost:3306/sait",
-					"root","harsh421");
+					"root","Bhumi456");
 			Statement st=c.createStatement();
 			st.executeUpdate("create table student("
 					+ "id int primary key auto_increment,"
