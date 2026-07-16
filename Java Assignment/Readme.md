@@ -14,7 +14,7 @@ This repository contains Java assignments completed as part of coursework and pr
 
 ## Demo
 <p align="center">
-  <img src="Java Assignment/readme-assets/workspaceSS2.png" alt="Workspace Screenshot" width="90%">
+  <img src="readme-assets/workspaceSS2.png" alt="Workspace Screenshot" width="90%">
 </p>
 
 ## How to Run
